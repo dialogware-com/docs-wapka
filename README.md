@@ -47,6 +47,8 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
  + blog about news in our ecosystem
  + newsletter to know about news on application directory
  + integration with foundation
+ + program partnerski dla programistów, aby im się opłacało używać to rozwiązanie
+ + program partnerski dla aktualnych klientów subscription.pl
  
 
 #### subscription.pl
