@@ -16,6 +16,9 @@ With Softreck support on background
 ### Co to jest?
 
 Ekosystem technologiczny dla otwartego oprogramowania Opensource
+Do uruchamiania aplikacji z otwartym kodem OpenSource na własnym serwerze, kupionym w systemie wapka
+
++ the next project WAPI, rucuhamianie API na własnym serwerze
 
 ### Dla kogo?
 
@@ -39,27 +42,54 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 + [Application Software Development](https://application.pl/)
 + [Logotyp deployment.pl](http://www.deployment.pl/)
 
+#### wapka.pl
+
+ + blog about news in our ecosystem
+ + newsletter to know about news on application directory
+ + integration with foundation
+ 
+
 #### subscription.pl
-
+  
+  + pricing per Month /VPS
+    + 3$ / vps - 1cpu 512MB 10GB
+    + 10$ / vps - 4cpu 8GB 200GB
+  
+  + payments for many servers  
+    
+  + subscription for user, it allows with oAuth to access wapka ecosystem
   + free support for oauth on Opensource applications
-  + member support dla application
-  + subscription
-  + implementacja: oAuth
-
+  + member support
+  
 
 #### application.pl 
-
-  + access over subscription.pl
-  + catalog of applications
-  + free apps with access from subscription.pl
+  
+  + oAuth implementation
+  + access over subscription.pl  
+  + Marketplace, list of applications which are ready for deployment in wapka environment
+  + apps are free to use, pay only for used VPS
   
   
 #### deployment.pl
-
+  
+  + Tools for deployment to help programmer implement it on own project
+  + oAuth implementation
   + GitOps implementation
   + Opensource solution for deployment directly from github
   + deployment directly from github to application servers
   + deployment for apps based on apicra.com / apiBuild.com
+
+
+#### gitcast.pl
+  + blog informacyjny oraz udostepnianie na social mediach 
+  + każdego tygodnia 4 nominacje
+    + każdego dnia od Poniedziałku do Czwartku nominowany jest 1 projekt
+    + za nominację donate na projekcie w Github, sponsorowanie projektów OpenSource
+    + publikacja na blogu o projektach
+  + co tydzien w piątek zostaje wybrany zwycięzca
+    + który otrzymuje rok autodeploymentu na aPaaS.pl
+    + z możliwością przedłużenia, jeśli projekt będzie się rozwijał
+    + obszerny artykuł o teamie, planach, promocja na social media
 
 
 
@@ -91,17 +121,6 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
     + rozliczanie VPS dla application.pl
     + intergacja z iPaaS.pl
         
-
-+ gitcast.pl
-  + blog informacyjny oraz udostepnianie na social mediach 
-  + każdego tygodnia 4 nominacje
-    + każdego dnia od Poniedziałku do Czwartku nominowany jest 1 projekt
-    + za nominację donate na projekcie w Github, sponsorowanie projektów OpenSource
-    + publikacja na blogu o projektach
-  + co tydzien w piątek zostaje wybrany zwycięzca
-    + który otrzymuje rok autodeploymentu na aPaaS.pl
-    + z możliwością przedłużenia, jeśli projekt będzie się rozwijał
-    + obszerny artykuł o teamie, planach, promocja na social media
 
 
 + devalert.pl
