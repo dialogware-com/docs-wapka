@@ -4,15 +4,12 @@
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
 
 
-
-## wapka.pl
-
-[wapka.pl page](https://wapka.pl/)
+## [wapka.pl page](https://wapka.pl/)
 + [logo wapka.pl page](https://logo.wapka.pl/)
 + [docs wapka.pl page](https://docs.wapka.pl/)
 + [roadmap wapka.pl page](https://roadmap.wapka.pl/)
 
-wapka is OpenSource Deployment Ecosystem to meet both:
+wapka is an OpenSource Deployment Ecosystem to meet both:
 This is win-win ecosystem: Programmer and Non-technical people have an opportunity to make a working business 
 With Softreck support on background
 
