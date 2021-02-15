@@ -17,9 +17,12 @@ With Softreck support on background
 ### Co to jest?
 
 Ekosystem technologiczny dla otwartego oprogramowania Opensource bazujący na rozwiązaniach:
+
+![GitOps - logo](http://logo.gitops.pl/1/cover.png)
 + [GitOps - LandingPage](http://www.gitops.pl/)
 + [GitOps - Dokumentacja](http://docs.gitops.pl/)
 
+![aPaaS - logo](https://logo.apaas.pl/1/cover.png)
 + [aPaaS - LandingPage](https://www.apaas.pl)
 + [aPaaS - Dokumentacja](https://docs.apaas.pl)
 
