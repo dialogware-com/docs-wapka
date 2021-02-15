@@ -92,7 +92,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
   + deployment for apps based on apicra.com / apiBuild.com
 
 
-![gitCast - logo](http://logo.gitcast.pl/2/cover.png)
+![gitCast - logo](http://logo.gitcast.pl/1/cover.png)
 #### gitCast.pl
 + [gitCast - LandingPage](http://www.gitcast.pl/)
 + [gitCast - Dokumentacja](http://docs.gitcast.pl/)
