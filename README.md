@@ -94,8 +94,8 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 ![gitCast - logo](http://logo.gitcast.pl/2/cover.png)
 #### gitCast.pl
-+ [gitCast - LandingPage](http://www.gitops.pl/)
-+ [gitCast - Dokumentacja](http://docs.gitops.pl/)
++ [gitCast - LandingPage](http://www.gitcast.pl/)
++ [gitCast - Dokumentacja](http://docs.gitcast.pl/)
 
 + blog informacyjny oraz udostepnianie na social mediach 
 + każdego tygodnia 4 nominacje
