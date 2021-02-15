@@ -71,8 +71,8 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 ![application - logo](http://logo.application.pl/2/cover.png)
 #### application.pl
-+ [Application Software Development](https://application.pl/)
-
++ [Application Software Development](https://www.application.pl/)
++ [Application - Dokumentacja](http://docs.application.pl/)
 
 + oAuth implementation
 + access over subscription.pl  
