@@ -92,10 +92,10 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
   + deployment for apps based on apicra.com / apiBuild.com
 
 
-![GitOps - logo](http://logo.gitops.pl/2/cover.png)
+![gitCast - logo](http://logo.gitcast.pl/2/cover.png)
 #### gitCast.pl
-+ [GitOps - LandingPage](http://www.gitops.pl/)
-+ [GitOps - Dokumentacja](http://docs.gitops.pl/)
++ [gitCast - LandingPage](http://www.gitops.pl/)
++ [gitCast - Dokumentacja](http://docs.gitops.pl/)
 
 + blog informacyjny oraz udostepnianie na social mediach 
 + każdego tygodnia 4 nominacje
@@ -121,7 +121,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 
 
-![GitOps - logo](https://logo.gitops.pl/1/cover.png)
+![GitOps - logo](https://logo.gitops.pl/2/cover.png)
 #### GitOps
 + [GitOps - LandingPage](https://www.gitops.pl)
 + [GitOps - Dokumentacja](https://docs.gitops.pl)
