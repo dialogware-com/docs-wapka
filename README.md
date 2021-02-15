@@ -47,8 +47,9 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 ### Elementy ekosystemu wapka
 
 
-
+![wapka - logo](http://logo.wapka.pl/3/cover.png)
 #### wapka.pl
++ [wapka.pl](https://wapka.pl/)
 
  + blog about news in our ecosystem
  + newsletter to know about news on application directory
@@ -57,8 +58,8 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
  + program partnerski dla aktualnych klientów subscription.pl
  
 
-#### subscription.pl
 ![subscription - logo](http://logo.subscription.pl/2/cover.png)
+#### subscription.pl
 + [Subscription Development](https://subscription.pl/)
 
 + pricing per Month /VPS
@@ -72,8 +73,8 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 + member support
   
 
-#### application.pl
 ![application - logo](http://logo.application.pl/2/cover.png)
+#### application.pl
 + [Application Software Development](https://application.pl/)
 
 
@@ -82,9 +83,9 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 + Marketplace, list of applications which are ready for deployment in wapka environment
 + apps are free to use, pay only for used VPS
   
-  
-#### deployment.pl
+
 ![deployment - logo](http://logo.deployment.pl/2/cover.png)
+#### deployment.pl
 + [Logotyp deployment.pl](http://www.deployment.pl/)
 
   + Tools for deployment to help programmer implement it on own project
@@ -95,9 +96,8 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
   + deployment for apps based on apicra.com / apiBuild.com
 
 
-#### gitcast.pl
-
 ![GitOps - logo](http://logo.gitops.pl/2/cover.png)
+#### gitcast.pl
 + [GitOps - LandingPage](http://www.gitops.pl/)
 + [GitOps - Dokumentacja](http://docs.gitops.pl/)
 
