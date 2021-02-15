@@ -18,7 +18,7 @@ With Softreck support on background
 
 Ekosystem technologiczny dla otwartego oprogramowania Opensource bazujący na rozwiązaniach:
 
-![GitOps - logo](http://logo.gitops.pl/1/cover.png)
+![GitOps - logo](http://logo.gitops.pl/2/cover.png)
 + [GitOps - LandingPage](http://www.gitops.pl/)
 + [GitOps - Dokumentacja](http://docs.gitops.pl/)
 
