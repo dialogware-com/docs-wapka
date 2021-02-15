@@ -3,6 +3,7 @@
 + [Softreck - Leadership Through Software Development](https://softreck.com/)
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
 
+![logo wapka.pl](https://logo.wapka.pl/3/cover.png)
 
 ## [wapka.pl page](https://wapka.pl/)
 + [logo wapka.pl page](https://logo.wapka.pl/)
