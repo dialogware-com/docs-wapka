@@ -15,7 +15,14 @@ With Softreck support on background
 
 ### Co to jest?
 
-Ekosystem technologiczny dla otwartego oprogramowania Opensource
+Ekosystem technologiczny dla otwartego oprogramowania Opensource bazujący na rozwiązaniach:
++ [GitOps - LandingPage](http://www.gitops.pl/)
++ [GitOps - Dokumentacja](http://docs.gitops.pl/)
+
++ [aPaaS - LandingPage](https://www.apaas.pl)
++ [aPaaS - Dokumentacja](https://docs.apaas.pl)
+
+
 Do uruchamiania aplikacji z otwartym kodem OpenSource na własnym serwerze, kupionym w systemie wapka
 
 + the next project WAPI, rucuhamianie API na własnym serwerze
