@@ -18,9 +18,6 @@ With Softreck support on background
 
 Ekosystem technologiczny dla otwartego oprogramowania Opensource bazujący na rozwiązaniach:
 
-![GitOps - logo](http://logo.gitops.pl/2/cover.png)
-+ [GitOps - LandingPage](http://www.gitops.pl/)
-+ [GitOps - Dokumentacja](http://docs.gitops.pl/)
 
 ![aPaaS - logo](https://logo.apaas.pl/1/cover.png)
 + [aPaaS - LandingPage](https://www.apaas.pl)
@@ -49,9 +46,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 ### Elementy ekosystemu wapka
 
-+ [Subscription Development](https://subscription.pl/)
-+ [Application Software Development](https://application.pl/)
-+ [Logotyp deployment.pl](http://www.deployment.pl/)
+
 
 #### wapka.pl
 
@@ -63,28 +58,35 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
  
 
 #### subscription.pl
-  
-  + pricing per Month /VPS
-    + 3$ / vps - 1cpu 512MB 10GB
-    + 10$ / vps - 4cpu 8GB 200GB
-  
-  + payments for many servers  
-    
-  + subscription for user, it allows with oAuth to access wapka ecosystem
-  + free support for oauth on Opensource applications
-  + member support
+![subscription - logo](http://logo.subscription.pl/2/cover.png)
++ [Subscription Development](https://subscription.pl/)
+
++ pricing per Month /VPS
+  + 3$ / vps - 1cpu 512MB 10GB
+  + 10$ / vps - 4cpu 8GB 200GB
+
++ payments for many servers  
+
++ subscription for user, it allows with oAuth to access wapka ecosystem
++ free support for oauth on Opensource applications
++ member support
   
 
-#### application.pl 
-  
-  + oAuth implementation
-  + access over subscription.pl  
-  + Marketplace, list of applications which are ready for deployment in wapka environment
-  + apps are free to use, pay only for used VPS
+#### application.pl
+![application - logo](http://logo.application.pl/2/cover.png)
++ [Application Software Development](https://application.pl/)
+
+
++ oAuth implementation
++ access over subscription.pl  
++ Marketplace, list of applications which are ready for deployment in wapka environment
++ apps are free to use, pay only for used VPS
   
   
 #### deployment.pl
-  
+![deployment - logo](http://logo.deployment.pl/2/cover.png)
++ [Logotyp deployment.pl](http://www.deployment.pl/)
+
   + Tools for deployment to help programmer implement it on own project
   + oAuth implementation
   + GitOps implementation
@@ -94,15 +96,20 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 
 #### gitcast.pl
-  + blog informacyjny oraz udostepnianie na social mediach 
-  + każdego tygodnia 4 nominacje
-    + każdego dnia od Poniedziałku do Czwartku nominowany jest 1 projekt
-    + za nominację donate na projekcie w Github, sponsorowanie projektów OpenSource
-    + publikacja na blogu o projektach
-  + co tydzien w piątek zostaje wybrany zwycięzca
-    + który otrzymuje rok autodeploymentu na aPaaS.pl
-    + z możliwością przedłużenia, jeśli projekt będzie się rozwijał
-    + obszerny artykuł o teamie, planach, promocja na social media
+
+![GitOps - logo](http://logo.gitops.pl/2/cover.png)
++ [GitOps - LandingPage](http://www.gitops.pl/)
++ [GitOps - Dokumentacja](http://docs.gitops.pl/)
+
++ blog informacyjny oraz udostepnianie na social mediach 
++ każdego tygodnia 4 nominacje
+  + każdego dnia od Poniedziałku do Czwartku nominowany jest 1 projekt
+  + za nominację donate na projekcie w Github, sponsorowanie projektów OpenSource
+  + publikacja na blogu o projektach
++ co tydzien w piątek zostaje wybrany zwycięzca
+  + który otrzymuje rok autodeploymentu na aPaaS.pl
+  + z możliwością przedłużenia, jeśli projekt będzie się rozwijał
+  + obszerny artykuł o teamie, planach, promocja na social media
 
 
 
