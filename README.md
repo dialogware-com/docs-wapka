@@ -19,10 +19,6 @@ With Softreck support on background
 Ekosystem technologiczny dla otwartego oprogramowania Opensource bazujący na rozwiązaniach:
 
 
-![aPaaS - logo](https://logo.apaas.pl/1/cover.png)
-+ [aPaaS - LandingPage](https://www.apaas.pl)
-+ [aPaaS - Dokumentacja](https://docs.apaas.pl)
-
 
 Do uruchamiania aplikacji z otwartym kodem OpenSource na własnym serwerze, kupionym w systemie wapka
 
@@ -97,7 +93,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 
 ![GitOps - logo](http://logo.gitops.pl/2/cover.png)
-#### gitcast.pl
+#### gitCast.pl
 + [GitOps - LandingPage](http://www.gitops.pl/)
 + [GitOps - Dokumentacja](http://docs.gitops.pl/)
 
@@ -112,16 +108,33 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
   + obszerny artykuł o teamie, planach, promocja na social media
 
 
+![aPaaS - logo](https://logo.apaas.pl/1/cover.png)
+#### aPaaS
++ [aPaaS - LandingPage](https://www.apaas.pl)
++ [aPaaS - Dokumentacja](https://docs.apaas.pl)
+
++ provider-zy usług
+ + domeny
+ + serwery dedykowane, VPS, cloud
+ + DNS
+ + autoryzacje
+
+
+
+![GitOps - logo](https://logo.gitops.pl/1/cover.png)
+#### GitOps
++ [GitOps - LandingPage](https://www.gitops.pl)
++ [GitOps - Dokumentacja](https://docs.gitops.pl)
+
++ wsparcie dla aPaaS.pl, jak działa 
++ descirptions for aPaaS solution
+
+
 
 ## Information about technologies
 
 + oAuth.pl
     + wsparcie merytoryczne dla idcard.pl / subscription.pl
-
-
-+ GitOps.pl
-    + wsparcie dla aPaaS.pl, jak działa 
-    + descirptions for aPaaS solution
 
 + wdrozenie.pl   
     + metody, technologie
