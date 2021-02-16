@@ -42,7 +42,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 ### Elementy ekosystemu wapka
 
 
-![wapka - logo](http://logo.wapka.pl/3/cover.png)
+![wapka - logo](https://logo.wapka.pl/3/cover.png)
 #### wapka.pl
 + [wapka.pl](https://www.wapka.pl/)
 
@@ -53,7 +53,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
  + program partnerski dla aktualnych klientów subscription.pl
  
 
-![subscription - logo](http://logo.subscription.pl/1/cover.png)
+![subscription - logo](https://logo.subscription.pl/1/cover.png)
 #### subscription.pl
 + [Subscription Development](https://www.subscription.pl/)
 
@@ -68,10 +68,10 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 + member support
   
 
-![application - logo](http://logo.application.pl/2/cover.png)
+![application - logo](https://logo.application.pl/2/cover.png)
 #### application.pl
 + [Application Software Development](https://www.application.pl/)
-+ [Application - Dokumentacja](http://docs.application.pl/)
++ [Application - Dokumentacja](https://docs.application.pl/)
 
 + oAuth implementation
 + access over subscription.pl  
