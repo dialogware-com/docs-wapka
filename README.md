@@ -4,24 +4,29 @@
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
 
 ![logo wapka.pl](https://logo.wapka.pl/3/cover.png)
-## [wapka.pl page](https://wapka.pl/)
+## [wapka.pl page](https://www.wapka.pl/)
 + [logo wapka.pl page](https://logo.wapka.pl/)
 + [docs wapka.pl page](https://docs.wapka.pl/)
 + [roadmap wapka.pl page](https://roadmap.wapka.pl/)
+
+
++ blog about news in our ecosystem
++ newsletter to know about news on application directory
++ integration with foundation
++ program partnerski dla programistów, aby im się opłacało używać to rozwiązanie
++ program partnerski dla aktualnych klientów subscription.pl
+ 
+ 
+### Co to jest?
 
 wapka is an OpenSource Deployment Ecosystem to meet both:
 This is win-win ecosystem: Programmer and Non-technical people have an opportunity to make a working business 
 With Softreck support on background
 
-### Co to jest?
+## Do czego służy?
 
-Ekosystem technologiczny dla otwartego oprogramowania Opensource bazujący na rozwiązaniach:
+Ekosystem technologiczny dla otwartego oprogramowania do uruchamiania aplikacji z otwartym kodem OpenSource na własnym serwerze, kupionym w systemie wapka
 
-
-
-Do uruchamiania aplikacji z otwartym kodem OpenSource na własnym serwerze, kupionym w systemie wapka
-
-+ the next project WAPI, uruchamianie API na własnym serwerze
 
 ### Dla kogo?
 
@@ -41,18 +46,6 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 ### Elementy ekosystemu wapka
 
-
-![wapka - logo](https://logo.wapka.pl/3/cover.png)
-#### wapka.pl
-+ [wapka.pl](https://www.wapka.pl/)
-+ [wapka - Dokumentacja](https://docs.wapka.pl/)
-
- + blog about news in our ecosystem
- + newsletter to know about news on application directory
- + integration with foundation
- + program partnerski dla programistów, aby im się opłacało używać to rozwiązanie
- + program partnerski dla aktualnych klientów subscription.pl
- 
 
 ![subscription - logo](https://logo.subscription.pl/1/cover.png)
 #### subscription.pl
@@ -183,3 +176,15 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 
   
+
+
+## The Next Step
+
+After this version of system will be ready we will extend solutions for API
+
+![WAPI - logo](https://logo.wapi.pl/1/cover.png)
+#### WAPI.pl
++ [WAPI - LandingPage](https://www.wapi.pl)
++ [WAPI - Dokumentacja](https://docs.wapi.pl)
+
+, uruchamianie API na własnym serwerze
