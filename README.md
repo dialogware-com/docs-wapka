@@ -4,7 +4,6 @@
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
 
 ![logo wapka.pl](https://logo.wapka.pl/3/cover.png)
-
 ## [wapka.pl page](https://wapka.pl/)
 + [logo wapka.pl page](https://logo.wapka.pl/)
 + [docs wapka.pl page](https://docs.wapka.pl/)
@@ -45,7 +44,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 ![wapka - logo](http://logo.wapka.pl/3/cover.png)
 #### wapka.pl
-+ [wapka.pl](https://wapka.pl/)
++ [wapka.pl](https://www.wapka.pl/)
 
  + blog about news in our ecosystem
  + newsletter to know about news on application directory
@@ -56,7 +55,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 ![subscription - logo](http://logo.subscription.pl/2/cover.png)
 #### subscription.pl
-+ [Subscription Development](https://subscription.pl/)
++ [Subscription Development](https://www.subscription.pl/)
 
 + pricing per Month /VPS
   + 3$ / vps - 1cpu 512MB 10GB
