@@ -53,7 +53,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
  + program partnerski dla aktualnych klientów subscription.pl
  
 
-![subscription - logo](http://logo.subscription.pl/2/cover.png)
+![subscription - logo](http://logo.subscription.pl/1/cover.png)
 #### subscription.pl
 + [Subscription Development](https://www.subscription.pl/)
 
