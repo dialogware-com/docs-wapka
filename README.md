@@ -134,13 +134,25 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 
 ## Information about technologies
 
-+ oAuth.pl
-    + wsparcie merytoryczne dla idcard.pl / subscription.pl
 
-+ wdrozenie.pl   
-    + metody, technologie
-    + organizacje, projekty
-    + ludzie, experci, devops
+![oAuth - logo](https://logo.oauth.pl/1/cover.png)
+#### oAuth.pl
++ [oAuth - LandingPage](https://www.oauth.pl)
++ [oAuth - Dokumentacja](https://docs.oauth.pl)
+
+
++ wsparcie merytoryczne dla idcard.pl / subscription.pl
+
+
+
+![Wdrożenie - logo](https://logo.wdrozenie.pl/1/cover.png)
+#### Wdrozenie.pl
++ [Wdrożenie - LandingPage](https://www.wdrozenie.pl)
++ [Wdrożenie - Dokumentacja](https://docs.wdrozenie.pl)
+ 
++ metody, technologie
++ organizacje, projekty
++ ludzie, experci, devops
    
    
    
@@ -150,16 +162,24 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
   + webmeet.pl / wb
    
    
-+ foundation.pl
-    + platforma reseller'a
-    + rozliczanie VPS dla application.pl
-    + intergacja z iPaaS.pl
-        
+
+![Foundation - logo](https://logo.foundation.pl/1/cover.png)
+#### Foundation.pl
++ [Foundation - LandingPage](https://www.foundation.pl)
++ [Foundation - Dokumentacja](https://docs.foundation.pl)
+
++ platforma reseller'a
++ rozliczanie VPS dla application.pl
++ intergacja z iPaaS.pl
 
 
-+ devalert.pl
-  + newsletter
-  + zgłoszenia o lukach i ewentualnych skutkach
+![DevAlert - logo](https://logo.devalert.pl/1/cover.png)
+#### DevAlert.pl
++ [DevAlert - LandingPage](https://www.devalert.pl)
++ [DevAlert - Dokumentacja](https://docs.devalert.pl)
+
++ newsletter
++ zgłoszenia o lukach i ewentualnych skutkach
 
 
   
