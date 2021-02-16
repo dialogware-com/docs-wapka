@@ -21,7 +21,7 @@ Ekosystem technologiczny dla otwartego oprogramowania Opensource bazujący na ro
 
 Do uruchamiania aplikacji z otwartym kodem OpenSource na własnym serwerze, kupionym w systemie wapka
 
-+ the next project WAPI, rucuhamianie API na własnym serwerze
++ the next project WAPI, uruchamianie API na własnym serwerze
 
 ### Dla kogo?
 
