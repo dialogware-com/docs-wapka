@@ -45,6 +45,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 ![wapka - logo](https://logo.wapka.pl/3/cover.png)
 #### wapka.pl
 + [wapka.pl](https://www.wapka.pl/)
++ [wapka - Dokumentacja](https://docs.wapka.pl/)
 
  + blog about news in our ecosystem
  + newsletter to know about news on application directory
@@ -56,6 +57,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 ![subscription - logo](https://logo.subscription.pl/1/cover.png)
 #### subscription.pl
 + [Subscription Development](https://www.subscription.pl/)
++ [Subscription - Dokumentacja](https://docs.subscription.pl/)
 
 + pricing per Month /VPS
   + 3$ / vps - 1cpu 512MB 10GB
