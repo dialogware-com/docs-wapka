@@ -12,7 +12,10 @@ Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszeg
 Kierunek rozwoju Software Developmentu jest jasny: automatyzacja oraz udział sztucznej inteligencji w zwiększaniu efektywności pracy.
 Proces ten ma na celu obniżenie kosztów, zwiększenie bezpieczeństwa i jakości wytwarzania i zarządzania.
 
-Rozwiązanie wapka.pl ma pomóc w stopniowym wyłączaniu udziału programisty w cyklach życia aplikacji do niezbędnego minimum, by mógł skupić się na wytwarzaniau wartości biznesowej oprogramowania.
+Rozwiązanie wapka.pl ma pomóc w stopniowym wyłączaniu udziału programisty w cyklach życia aplikacji do niezbędnego minimum, by
+programista mógł skupić się na wytwarzaniu wartości biznesowej oprogramowania a nie obsłudze klienta czy procesu obsługi samej aplikacji.
+W tym kontekście warto zauwazyć, że korzyści są bardziej zauważalne w specyficznych branżach, przemyśle, IoT, gdzie z jendej strony
+trzeba zwiększyć rentowność a z drugiej pozwolić na używanie natywnych technologii pozbawionych wielu warstw abstrakcji.
 
 # Korzyści
 
