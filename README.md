@@ -260,6 +260,21 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 
 
 
+
+![Foundation - logo](https://logo.foundation.pl/1/cover.png)
+## Foundation.pl
++ [Foundation - LandingPage](https://www.foundation.pl)
++ [Foundation - Dokumentacja](https://docs.foundation.pl)
+
++ providerzy
++ platforma reseller'a
++ rozliczanie VPS dla application.pl
++ intergacja z iPaaS.pl
+
+
+
+
+
 # Technologies
 
 
@@ -291,18 +306,6 @@ aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily
   + webmeet.pl / wb
    
    
-
-![Foundation - logo](https://logo.foundation.pl/1/cover.png)
-## Foundation.pl
-+ [Foundation - LandingPage](https://www.foundation.pl)
-+ [Foundation - Dokumentacja](https://docs.foundation.pl)
-
-+ platforma reseller'a
-+ rozliczanie VPS dla application.pl
-+ intergacja z iPaaS.pl
-
-
-
 
 ![DevAlert - logo](https://logo.devalert.pl/4/cover.png)
 ## DevAlert.pl
