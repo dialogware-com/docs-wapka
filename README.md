@@ -98,6 +98,10 @@ gdyż wszystkie usługi są profilowane a przez to wyższej jakości niż w przy
 Model subskrypcji ze zmienną w ilości świadczonych godzin supportu
 możliwa przedpłata, wykupienie kilku godzin tygodniowo/miesięcznie/rocznie
 
+Klienci i Partnerzy będą pozyskiwaniu przy indywidualnych rozmowach.
+Wzrost będzie organiczny, bez udziału kampanii reklamowych aby usługa miała czas dojrzeć do aktualnych potrzeb klientów.
+
+
 ### Do 100 klientów/użytkowników końcowych
 Początkowy model biznesowy będzie przypominał software house tworzący oprogramowanie dedykowane w krótkoterminowych projektach.
 Deficyt specjalistów będzie blokował rozwój.
@@ -105,7 +109,7 @@ Rentowność nie będzie wystarczająca, by uzyskać pełne pokrycie w personelu
 
 Na początku dystrybucji tego systemu będzie mniej niż 100 użytkowników i mniej niż kilkaset używanych aplikacji oraz ich małej ilości dostępnych w marketplace aPaaS
 
-Rozwiązaniem pozwalającym na rentownosć będzie pośrednictwo w świadczeniu usług specjalistów 
+Rozwiązaniem pozwalającym na rentowność będzie pośrednictwo w świadczeniu usług specjalistów 
 i to będzie najbardziej dochodowa część, która będzie pozwalała na inwestycję w reklamę oraz pozyskiwanie bezpośrednio poprzez donate 
 utalentowanych programistów tworzących ponadprzeciętne dedykowane rozwiązania
 
@@ -116,9 +120,12 @@ i rentowność na bardzo dobrym poziomie, zatrudnieniu więcej ilości ekpsertó
 na szybką reakcję, a mniejsze pokrycie poza godzinami pracy w obszrze europy.
 
 
+
 ### Do 10 000 klientów/użytkowników końcowych
-Powiększajacac się ilość aplikacji i wielkosć infratsruktury sprawi większe możliwosci ale i zagrożenia, dlatego będzie potzrebne wsparcie
-ekspertów od bezpieczeństwa, doradzającym naszym partnerom w wkesti głębszej integracji zapobiegającej przyszłym problemom.
+Powiększajacac się ilość aplikacji i wielkosć infrastruktury pozwoli na większe możliwości ale i zagrożenia, dlatego będzie potrzebne wsparcie
+ekspertów d/s bezpieczeństwa, doradzającym naszym partnerom w kestii głębszej integracji zapobiegającej przyszłym problemom.
+To będzie również czas ekspansji na rynku globalne i pozyskiwanie ekspertów z krajów, gdzie praca jest mniej kosztowna
+
 
   
 ![logo wapka.pl](https://logo.wapka.pl/3/cover.png)
