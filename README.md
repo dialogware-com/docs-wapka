@@ -35,8 +35,8 @@ Klient końcowy otrzymuje w szybszym czasie to czego oczekiwał przez co równie
 
 ### Obecne rozwiązania
 Obecnie mamy wiele chmur w tym OpenSource.
-Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy mogą bezpośrednio kontaktować się 
-z kompetentnym i odpowiedzialnym supportem za dedykowane oprogramowanie.
+Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy 
+mogą bezpośrednio kontaktować się z kompetentnym i odpowiedzialnym supportem za dedykowane oprogramowanie.
 Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu finansowania, które pochodzi z jego używania na platformie Wapka.
 
 ### Koszty aplikacji internetowej www
@@ -224,12 +224,12 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 ## deployment.pl
 + [Logotyp deployment.pl](http://www.deployment.pl/)
 
-  + Tools for deployment to help programmer implement it on own project
-  + oAuth implementation
-  + GitOps implementation
-  + Opensource solution for deployment directly from github
-  + deployment directly from github to application servers
-  + deployment for apps based on apicra.com / apiBuild.com
++ Tools for deployment to help programmer implement it on own project
++ oAuth implementation
++ GitOps implementation
++ Opensource solution for deployment directly from github
++ deployment directly from github to application servers
++ deployment for apps based on apicra.com / apiBuild.com
 
 
 ![gitCast - logo](http://logo.gitcast.pl/1/cover.png)
@@ -253,7 +253,8 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 + [aPaaS - LandingPage](https://www.apaas.pl)
 + [aPaaS - Dokumentacja](https://docs.apaas.pl)
 
-+ provider-zy usług
++ współpracujaca z API platformy foundation.pl
++ sprofilowana usługa dla providerów usług, oferująca
  + domeny
  + serwery dedykowane, VPS, cloud
  + DNS
@@ -266,9 +267,13 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 + [GitOps - LandingPage](https://www.gitops.pl)
 + [GitOps - Dokumentacja](https://docs.gitops.pl)
 
-+ wsparcie dla aPaaS.pl, jak działa 
-+ descirptions for aPaaS solution
-
++ wsparcie dla aPaaS.pl 
++ modele deploymentu
++ DEV - kod aplikacji
++ OPS - procesy operacyjne
++ Monitorowanie procesu deployment-u aplikacji
++ współpraca z platformami repozytoriów: github, gitlab, bitbucket
++ implementacja rozwiązań APIfoundation: APIbuild, APIterminal, APIcra
 
 
 
