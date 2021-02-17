@@ -7,12 +7,15 @@
 Aby mówić o poniższym ekosystemie warto omówić kontekst.
 Przedstawić kto za tym stoi oraz omówić potrzeby klientów jakie mają zostać zaspokojone.
 
-### Tom Sapletta, programista, inżynier devops
+### Tom Sapletta, founder Softreck.com, programista, inżynier devops, domainer
 Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
-Kierunek rozwoju Software Developmentu jest jasny: automatyzacja oraz udział sztucznej inteligencji w zwiększaniu efektywności pracy.
+Kierunek rozwoju Software Developmentu jest jasny: 
+
+    automatyzacja oraz udział sztucznej inteligencji w zwiększaniu efektywności pracy
+
 Proces ten ma na celu obniżenie kosztów, zwiększenie bezpieczeństwa i jakości wytwarzania i zarządzania.
 
-Rozwiązanie wapka.pl ma pomóc w stopniowym wyłączaniu udziału programisty w cyklach życia aplikacji do niezbędnego minimum, by
+Rozwiązanie Wapka ma pomóc w stopniowym wyłączaniu udziału programisty w cyklach życia aplikacji do niezbędnego minimum, by
 programista mógł skupić się na wytwarzaniu wartości biznesowej oprogramowania a nie obsłudze klienta czy procesu obsługi samej aplikacji.
 W tym kontekście warto zauwazyć, że korzyści są bardziej zauważalne w specyficznych branżach, przemyśle, IoT, gdzie z jendej strony
 trzeba zwiększyć rentowność a z drugiej pozwolić na używanie natywnych technologii pozbawionych wielu warstw abstrakcji.
@@ -44,8 +47,8 @@ Każdy projekt istniejący w internecie potrzebuje:
 
 Koszty utrzymania takiej aplikacji są dzielone na 3 grupy usługodawców:
 + provider infrastruktury domena, serwer, chmura
-+ usługi 3 firm zapewniające skalowalność, odporność na duże obciążenia, bezpieczeństwo
-+ usługi informatyczne i programistyczne, rozliczane na godziny. 
++ usługi firm trzecich zapewniające skalowalność, odporność na duże obciążenia, bezpieczeństwo
++ usługi informatyczne i programistyczne, rozliczane na godziny/umowy (zlecenia / o dzieło). 
 
 ## Korzyści dla Klienta biznesowego
 + integracja usług 
