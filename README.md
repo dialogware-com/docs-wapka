@@ -32,7 +32,8 @@ Klient końcowy otrzymuje w szybszym czasie to czego oczekiwał przez co równie
 
 ### Obecne rozwiązania
 Obecnie mamy wiele chmur w tym OpenSource.
-Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy mogą bezpośrednio kontaktować się z supportem kompetentnym, odpowiadzialnym za dane oprogramowanie.
+Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy mogą bezpośrednio kontaktować się 
+z kompetentnym i odpowiedzialnym supportem za dedykowane oprogramowanie.
 Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu finansowania, które pochodzi z jego używania na platformie Wapka.
 
 ### Koszty aplikacji internetowej www
