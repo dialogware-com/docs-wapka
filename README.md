@@ -13,7 +13,10 @@ Kierunek rozwoju Software Developmentu jest jasny:
 
     automatyzacja oraz udział sztucznej inteligencji w zwiększaniu efektywności pracy
 
-Proces ten ma na celu obniżenie kosztów, zwiększenie bezpieczeństwa i jakości wytwarzania i zarządzania.
+Proces ten ma na celu:
+  + obniżenie kosztów 
+  + zwiększenie bezpieczeństwa i jakości wytwarzania
+  + szybszego skalowania i zarządzania.
 
 Rozwiązanie Wapka ma pomóc w stopniowym wyłączaniu udziału programisty w cyklach życia aplikacji do niezbędnego minimum, by
 programista mógł skupić się na wytwarzaniu wartości biznesowej oprogramowania a nie obsłudze klienta czy procesu obsługi samej aplikacji.
