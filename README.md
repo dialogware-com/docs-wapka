@@ -51,11 +51,13 @@ Pomoc techniczna jest dostępna w zależności od opcji w godzinach pracy lub ca
 Klient nie musi logować się do panelu domenowego czy hostingowego, obsługa techniczna robi to w jego imieniu.
 
 ## Korzyści dla Programisty
-+ autodeployment
-+ wsparcie techniczne dla klientów
-+ infrastruktura 
++ auto-deployment
++ wapka zapewnia wsparcie techniczne dla klientów, można więcej czasu poświęcić na swoftware development
++ gotowa infrastruktura
++ szkolenia ze strony wapka
 
-Programista rozwiajający otwarte oprogramowanie często poza programowaniem nie ma czasu, by samemu obsłużyć klientów i tym samym zarabiać na swoim oprogramowaniu.
+
+Programista rozwijający otwarte oprogramowanie często poza programowaniem nie ma czasu, by samemu obsłużyć klientów i tym samym zarabiać na swoim oprogramowaniu.
 W odróżnieniu od oprogramowania licencyjnego programista opensource może pozwolić sobie na dowolność, ale z reguły rozwiązanie jest zbyt specyficzne by było popularne.
 
 ### Deployment
@@ -70,13 +72,24 @@ Docker nie jest rozwiązaniem dedykowanym do produkcyjnych systemów z uwagi na 
 Tutaj z pomocą przychodzą rozwiązania korzystającego ze specyfikacji zawartej w dockerze, które pozwalają na tej podstawie przygotowąć odpowiednie środowisko do uruchamiania oprogramowania.
 
 ## Korzyści dla Provider'a
-Mając na uwadze dużą konkurencję na rynku i dumpingowe ceny z rynku niemieckiego.
+Mając na uwadze dużą konkurencję na rynku i np. dumping-owe ceny z rynku niemieckiego.
 Ostatnie lata przyniosły skupienie nierentownego rynku polskich usług hostingowych.
 Udział rozwiązań chmurowych jest coraz bardziej zauważalny
 Warto zastanowić się jak pomóc rynkowi w Polscce, który nie ma szansy na obronę przy wzrastających kosztach energii elektrycznej i ciągłemu wzrostowi opodatkowania pracy
 Uważam, że to dobry czas, by każdy operator rozważył delegowanie część swojej infrastrukutry do chmury aPaaS, która pozwala na zwiększenie rentowności ułsug
 zmniejszając udział człowieka w procesie utrzymania usług z uwagi na przygotowane i rpzetestowane środowisko i deydkowane oprogramowania, specyficzne dla danej branży i klienta.
 
+
+
+## Korzyści dla ...
+### dla specjalistów
+poszukujących pracy na godziny (hourly.pl) razem z wapka możemy dostarczać Wasze usługi potrzebującym klientom wsparcia od zaraz, wiec koszty są odpoweidnio wyższe i zarobek jest również atrakcyjny
+
+### dla firm 
+wypełniających niszę, szukających specyficznych klientów, poprzez subscription.pl Wy będziecie dzielić się swoimi usługami a My naszymi klientami, którzy będą zainteresowani
+
+### dla rynku
+gdyż wszystkie usługi są profilowane a przez to wyższej jakości niż w przypadku poszukiwania aktualnie "wolnego" specjalisty czy wypromowanej ale niezbyt dobrze dopasowanej usługi
 
 
 
@@ -243,6 +256,8 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 + platforma reseller'a
 + rozliczanie VPS dla application.pl
 + intergacja z iPaaS.pl
+
+
 
 
 ![DevAlert - logo](https://logo.devalert.pl/4/cover.png)
