@@ -8,8 +8,9 @@ Aby mówić o poniższym ekosystemie warto omówić kontekst.
 Przedstawić kto za tym stoi oraz omówić potrzeby klientów jakie mają zostać zaspokojone.
 
 ### Tom Sapletta, founder Softreck.com, programista, inżynier devops, domainer
+
 Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
-Kierunek rozwoju Software Developmentu jest jasny: 
+Kierunek rozwoju Software Development-u jest jasny: 
 
     automatyzacja oraz udział sztucznej inteligencji w zwiększaniu efektywności pracy
 
@@ -23,24 +24,59 @@ programista mógł skupić się na wytwarzaniu wartości biznesowej oprogramowan
 W tym kontekście warto zauwazyć, że korzyści są bardziej zauważalne w specyficznych branżach, przemyśle, IoT, gdzie z jendej strony
 trzeba zwiększyć rentowność a z drugiej pozwolić na używanie natywnych technologii pozbawionych wielu warstw abstrakcji.
 
-# Korzyści
+# Obecne rozwiązania
+Obecnie mamy wiele chmur w tym OpenSource.
 
-## Szybszy uzyskanie efektu końcowego
-z punktu widzenia klienta końcowego to przede wszystkim oszczędność czasu i obniżenie kosztów operacyjnych i możliwość szybszej ekspansji na rynku poprzez oferowanie konkurencyjnej ceny usług.
+## Wady
+Tradycyjne rozwiązania dedykowane do szerokiej grupy odbiorców z reguły skupiają się na utrzymaniu istniejących rozwiązań, przez co nie pozwalają na efektywne wsparcie prototypowanych rozwiązań.
 
-## Lepszy model biznesowy poprzez większą ilość iteracji w tym samym budżecie
-Każdy binzes, model biznesowy wymaga czasu, w skład którego wchodzi czas prototypowania i testowania nowego rozwiązania.
-Tradycyjne rozwiazania dedykowane do szerokiej grupy odbiorców z reguły skupiają się na utrzymaniu istniejących rozwiązań, przez co nie pozwalają na efektywne wsparcie prototypowanych rozwiązań.
+
+# Korzyści z Wapka
+Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy
+mogą bezpośrednio kontaktować się z kompetentnym i odpowiedzialnym supportem za wybrane przez klienta dedykowane oprogramowanie.
+Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu finansowania, które pochodzi z jego używania na platformie Wapka.
+
+
+## Efektywność wytwarzania
+
+### Efektywność wytwarzania
+Efektywność wytwarzania jest zależna od doświadczenia i doskonałości w powtarzaniu a także efektywności iteracji
+
+    Efektywność = Doświadczenie * Doskonałość * Efektywność iteracji 
+
+### Doświadczenie
+  
+    Doświadczenie = ilość wykonywanych procesów / ilość wszystkich procesów 
+
+### Doskonałość
+Doskonałość jest równa 1, jest tym mniejsz im mniej razy dane zadanie zostało wykonane poprawnie,
+Gdy użyjemy lepszej technologii jakość wykonania pojedynczej próby może ulec zwiększeniu co pozwalając zwiększyć doskonałość
+
+    Doskonałość = ilość udanych prób / ilość prób
+
+
+### Efektywność iteracji
+Efektywność iteracji udowadnia, że lepiej mieć więcej procesów, ale powtarzalnych niż mniej ale definiowalnych
+
+    Efektywność iteracji = ilość stałych powtarzalnych procesów / ilość zależnych procesów   
+
+
+
+## Lepszy model biznesowy*
+*poprzez większą ilość iteracji w tym samym budżecie
+Stworzenie efektywnego modelu biznesowy wymaga czasu w skład którego wchodzi czas na prototypowanie i testowanie rozwiązania.
+Skrócenie cyklu pozwala na wykonanie większej ilości cykli w tym samym czasie
+
+
+### Szybsze uzyskanie efektu końcowego
+z punktu widzenia klienta końcowego to przede wszystkim oszczędność czasu i obniżenie kosztów operacyjnych oraz
+możliwość szybszej ekspansji na rynku poprzez oferowanie konkurencyjnej ceny usług.
+
 
 ### Mniej kosztowne prototypowanie
 Jako programista często mam do czynienia z prototypowaniem i doceniam każdą technologię, która pomaga w szybszym dotarciu do sensownego rozwiązania.
 Klient końcowy otrzymuje w szybszym czasie to czego oczekiwał przez co również koszty wytwarzania są niższe. 
 
-### Obecne rozwiązania
-Obecnie mamy wiele chmur w tym OpenSource.
-Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy 
-mogą bezpośrednio kontaktować się z kompetentnym i odpowiedzialnym supportem za dedykowane oprogramowanie.
-Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu finansowania, które pochodzi z jego używania na platformie Wapka.
 
 ### Koszty aplikacji internetowej www
 Każdy projekt istniejący w internecie potrzebuje:
