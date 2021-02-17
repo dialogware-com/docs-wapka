@@ -28,7 +28,7 @@ Obecnie mamy wiele chmur w tym OpenSource.
 Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy mogą bezpośrednio kontaktować się z supportem kompetentnym, odpowiadzialnym za dane oprogramowanie.
 Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu finansowania, które pochodzi z jego używania na platformie Wapka.
 
-### Koszty aplikacji intenretowej www
+### Koszty aplikacji internetowej www
 Każdy projekt istniejący w internecie potrzebuje:
 + domeny internetowej, która jest zarazem brand-em usługi / cyfrowego produktu
 + serwera, który musi zapewnić dostęp do usług realizowanych przez aplikację w zmiennych warunkach obciążenia przez klientów
@@ -99,9 +99,12 @@ Model subskrypcji ze zmienną w ilości świadczonych godzin supportu
 możliwa przedpłata, wykupienie kilku godzin tygodniowo/miesięcznie/rocznie
 
 ### Do 100 klientów/użytkowników końcowych
-z uwagi na fakt, że na początku dystrybucji tego systemu będzie mniej niż 100 użytkowników 
-i mniej niż kilkaset używanych aplikacji oraz ich małej ilości dostepnych w marketplace aPaaS
-rentowność nie będzie wystarczająca, by uzyskać pełne pokrycie w personelu i model będzie odbiegał od docelowego.
+Początkowy model biznesowy będzie przypominał software house tworzący oprogramowanie dedykowane w krótkoterminowych projektach.
+Deficyt specjalistów będzie blokował rozwój.
+Rentowność nie będzie wystarczająca, by uzyskać pełne pokrycie w personelu i model będzie odbiegał od docelowego.
+
+Na początku dystrybucji tego systemu będzie mniej niż 100 użytkowników i mniej niż kilkaset używanych aplikacji oraz ich małej ilości dostępnych w marketplace aPaaS
+
 Rozwiązaniem pozwalającym na rentownosć będzie pośrednictwo w świadczeniu usług specjalistów 
 i to będzie najbardziej dochodowa część, która będzie pozwalała na inwestycję w reklamę oraz pozyskiwanie bezpośrednio poprzez donate 
 utalentowanych programistów tworzących ponadprzeciętne dedykowane rozwiązania
