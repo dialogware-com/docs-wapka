@@ -46,7 +46,7 @@ Koszty utrzymania takiej aplikacji są dzielone na 3 grupy usługodawców:
 + wsparcie techniczne i szkolenia dla personelu z rozliczaniem na godziny
 
 Wapka integruje i oblicza koszty w zależności od użycia.
-Klient otrzymuje raz na miesiac rachunek za wszystkie koszty
+Klient otrzymuje raz na miesiąc rachunek za wszystkie koszty
 Pomoc techniczna jest dostępna w zależności od opcji w godzinach pracy lub całodobowo.
 Klient nie musi logować się do panelu domenowego czy hostingowego, obsługa techniczna robi to w jego imieniu.
 
@@ -59,8 +59,11 @@ Programista rozwiajający otwarte oprogramowanie często poza programowaniem nie
 W odróżnieniu od oprogramowania licencyjnego programista opensource może pozwolić sobie na dowolność, ale z reguły rozwiązanie jest zbyt specyficzne by było popularne.
 
 ### Deployment
-Inny programista może poświęcając czasu pozwolić sobie na uruchomienie i przetestowanie takiej aplikacji, ale to też wymaga czasu i zasobów.
-Obecnie mamy sporo rozwiązań do deploymentu, wiele projektów jest zgodnych z różnymi platformami i często przy zasotoswaniu docker'a łatwo jest je uruchomić na włansym komputerze.
+Inny programista może poświęcając czas pozwolić sobie na uruchomienie i przetestowanie takiej aplikacji,
+ale to też wymaga czasu i zasobów.
+Obecnie mamy sporo rozwiązań do deployment-u, 
+wiele projektów jest zgodnych z różnymi platformami 
+i często przy zastosowaniu docker'a łatwo jest je uruchomić na własnym komputerze.
 
 ### aPaaS
 Docker nie jest rozwiązaniem dedykowanym do produkcyjnych systemów z uwagi na bezpieczeństwo.
@@ -71,7 +74,7 @@ Mając na uwadze dużą konkurencję na rynku i dumpingowe ceny z rynku niemieck
 Ostatnie lata przyniosły skupienie nierentownego rynku polskich usług hostingowych.
 Udział rozwiązań chmurowych jest coraz bardziej zauważalny
 Warto zastanowić się jak pomóc rynkowi w Polscce, który nie ma szansy na obronę przy wzrastających kosztach energii elektrycznej i ciągłemu wzrostowi opodatkowania pracy
-Uważam, że to dobry czas, by każdy operator rozważyłdelegowanie część swojej infrastrukutry do chmury aPaaS, która pozwala na zwiększenie rentowności ułsug
+Uważam, że to dobry czas, by każdy operator rozważył delegowanie część swojej infrastrukutry do chmury aPaaS, która pozwala na zwiększenie rentowności ułsug
 zmniejszając udział człowieka w procesie utrzymania usług z uwagi na przygotowane i rpzetestowane środowisko i deydkowane oprogramowania, specyficzne dla danej branży i klienta.
 
 
