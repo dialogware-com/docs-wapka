@@ -4,11 +4,15 @@
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
 
 ## Początek
-Aby mówić o poniższym ekosystemie warto w ogóle przedstawić kto za tym stoi i jakie potrzeby i jakich klientów mają zostać spełnione.
+Aby mówić o poniższym ekosystemie warto omówić kontekst.
+Przedstawić kto za tym stoi oraz omówić potrzeby klientów jakie mają zostać zaspokojone.
 
-### Kto, czyli Tom Sapletta, programista, inżynier devops
+### Tom Sapletta, programista, inżynier devops
 Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
-Kierunek rozwoju Software Developmentu jest jasny: automatyzacja, która jest procesem mającym na celu stopniowe wyłączanie udziału programisty w cyklach życia aplikacji do niezbędnego minimum.
+Kierunek rozwoju Software Developmentu jest jasny: automatyzacja oraz udział sztucznej inteligencji w zwiększaniu efektywności pracy.
+Proces ten ma na celu obniżenie kosztów, zwiększenie bezpieczeństwa i jakości wytwarzania i zarządzania.
+
+Rozwiązanie wapka.pl ma pomóc w stopniowym wyłączaniu udziału programisty w cyklach życia aplikacji do niezbędnego minimum, by mógł skupić się na wytwarzaniau wartości biznesowej oprogramowania.
 
 # Korzyści
 
