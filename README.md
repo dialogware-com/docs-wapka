@@ -30,7 +30,7 @@ Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu 
 
 ### Koszty aplikacji intenretowej www
 Każdy projekt istniejący w internecie potrzebuje:
-+ domeny internetowej która jest zarazem brand-em usługi, cyfrowego produktu
++ domeny internetowej, która jest zarazem brand-em usługi / cyfrowego produktu
 + serwera, który musi zapewnić dostęp do usług realizowanych przez aplikację w zmiennych warunkach obciążenia przez klientów
 + obsługi technicznej do zapewnienia bezpieczeństwa oraz wprowadzania zmian, takich jak nowe funkcjonalności czy tłumaczenia, pomoc przy konfiguracji  
 
@@ -98,9 +98,9 @@ zmniejszając udział człowieka w procesie utrzymania usług z uwagi na przygot
  
 ### Co to jest?
 
-wapka is an OpenSource Deployment Ecosystem to meet both:
-This is win-win ecosystem: Programmer and Non-technical people have an opportunity to make a working business 
-With Softreck support on background
+The Wapka is an OpenSource Deployment Ecosystem to meet both:
+
+This is win-win ecosystem: Programmer and Non-technical people have an opportunity to make a working business with our support on background
 
 ## Do czego służy?
 
