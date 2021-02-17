@@ -93,6 +93,29 @@ gdyż wszystkie usługi są profilowane a przez to wyższej jakości niż w przy
 
 
 
+# Model Biznesowy
+
+Model subskrypcji ze zmienną w ilości świadczonych godzin supportu
+możliwa przedpłata, wykupienie kilku godzin tygodniowo/miesięcznie/rocznie
+
+### Do 100 klientów/użytkowników końcowych
+z uwagi na fakt, że na początku dystrybucji tego systemu będzie mniej niż 100 użytkowników 
+i mniej niż kilkaset używanych aplikacji oraz ich małej ilości dostepnych w marketplace aPaaS
+rentowność nie będzie wystarczająca, by uzyskać pełne pokrycie w personelu i model będzie odbiegał od docelowego.
+Rozwiązaniem pozwalającym na rentownosć będzie pośrednictwo w świadczeniu usług specjalistów 
+i to będzie najbardziej dochodowa część, która będzie pozwalała na inwestycję w reklamę oraz pozyskiwanie bezpośrednio poprzez donate 
+utalentowanych programistów tworzących ponadprzeciętne dedykowane rozwiązania
+
+
+### Do 1 000 klientów/użytkowników końcowych
+W skali 1 000 klientów osiągalna potencjalnie po kilkunastu miesiącach pozwoli na pokrycie kosztów kolejnych inwestycji 
+i rentowność na bardzo dobrym poziomie, zatrudnieniu więcej ilości ekpsertów supportu na pół etatu, gdyż lepiej jest zatrudniać w godzinach szczytu stałych pracowników, pozwalających
+na szybką reakcję, a mniejsze pokrycie poza godzinami pracy w obszrze europy.
+
+
+### Do 10 000 klientów/użytkowników końcowych
+Powiększajacac się ilość aplikacji i wielkosć infratsruktury sprawi większe możliwosci ale i zagrożenia, dlatego będzie potzrebne wsparcie
+ekspertów od bezpieczeństwa, doradzającym naszym partnerom w wkesti głębszej integracji zapobiegającej przyszłym problemom.
 
   
 ![logo wapka.pl](https://logo.wapka.pl/3/cover.png)
@@ -133,7 +156,7 @@ Ekosystem dla programistów szukających rozwiązania dla ich deploymentu
 ### Zasada działania
 
 Dzięki deployment.pl możliwy jeszt szybki cykl oparty o małe VPS, zarządzane przez ProMaGen.com
-Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkowników z subscription.pl
+Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowników z subscription.pl
 
 
 ### Elementy ekosystemu wapka
