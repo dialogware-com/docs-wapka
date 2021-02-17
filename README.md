@@ -3,6 +3,82 @@
 + [Softreck - Leadership Through Software Development](https://softreck.com/)
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
 
+## Początek
+Aby mówić o poniższym ekosystemie warto w ogóle przedstawić kto za tym stoi i jakie potrzeby i jakich klientów mają zostać spełnione.
+
+### Kto, czyli Tom Sapletta, programista, inżynier devops
+Jako programista szukam rozwiązań w obszarze devops do jeszcze efektywniejszego zarządzania cyklami życia aplikacji.
+Kierunek rozwoju Software Developmentu jest jasny: automatyzacja, która jest procesem mającym na celu stopniowe wyłączanie udziału programisty w cyklach życia aplikacji do niezbędnego minimum.
+
+# Korzyści
+
+## Szybszy uzyskanie efektu końcowego
+z punktu widzenia klienta końcowego to przede wszystkim oszczędność czasu i obniżenie kosztów operacyjnych i możliwość szybszej ekspansji na rynku poprzez oferowanie konkurencyjnej ceny usług.
+
+## Lepszy model biznesowy poprzez większą ilość iteracji w tym samym budżecie
+Każdy binzes, model biznesowy wymaga czasu, w skład którego wchodzi czas prototypowania i testowania nowego rozwiązania.
+Tradycyjne rozwiazania dedykowane do szerokiej grupy odbiorców z reguły skupiają się na utrzymaniu istniejących rozwiązań, przez co nie pozwalają na efektywne wsparcie prototypowanych rozwiązań.
+
+### Mniej kosztowne prototypowanie
+Jako programista często mam do czynienia z prototypowaniem i doceniam każdą technologię, która pomaga w szybszym dotarciu do sensownego rozwiązania.
+Klient końcowy otrzymuje w szybszym czasie to czego oczekiwał przez co również koszty wytwarzania są niższe. 
+
+### Obecne rozwiązania
+Obecnie mamy wiele chmur w tym OpenSource.
+Rozwiązanie Wapka, implementujące aPaaS w praktyce dla klientów końcowych, którzy mogą bezpośrednio kontaktować się z supportem kompetentnym, odpowiadzialnym za dane oprogramowanie.
+Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu finansowania, które pochodzi z jego używania na platformie Wapka.
+
+### Koszty aplikacji intenretowej www
+Każdy projekt istniejący w internecie potrzebuje:
++ domeny internetowej która jest zarazem brand-em usługi, cyfrowego produktu
++ serwera, który musi zapewnić dostęp do usług realizowanych przez aplikację w zmiennych warunkach obciążenia przez klientów
++ obsługi technicznej do zapewnienia bezpieczeństwa oraz wprowadzania zmian, takich jak nowe funkcjonalności czy tłumaczenia, pomoc przy konfiguracji  
+
+Koszty utrzymania takiej aplikacji są dzielone na 3 grupy usługodawców:
++ provider infrastruktury domena, serwer, chmura
++ usługi 3 firm zapewniające skalowalność, odporność na duże obciążenia, bezpieczeństwo
++ usługi informatyczne i programistyczne, rozliczane na godziny. 
+
+## Korzyści dla Klienta biznesowego
++ integracja usług 
++ agregacja operatorów
++ łatwiejsze zarządzanie i rozliczanie
++ wsparcie techniczne i szkolenia dla personelu z rozliczaniem na godziny
+
+Wapka integruje i oblicza koszty w zależności od użycia.
+Klient otrzymuje raz na miesiac rachunek za wszystkie koszty
+Pomoc techniczna jest dostępna w zależności od opcji w godzinach pracy lub całodobowo.
+Klient nie musi logować się do panelu domenowego czy hostingowego, obsługa techniczna robi to w jego imieniu.
+
+## Korzyści dla Programisty
++ autodeployment
++ wsparcie techniczne dla klientów
++ infrastruktura 
+
+Programista rozwiajający otwarte oprogramowanie często poza programowaniem nie ma czasu, by samemu obsłużyć klientów i tym samym zarabiać na swoim oprogramowaniu.
+W odróżnieniu od oprogramowania licencyjnego programista opensource może pozwolić sobie na dowolność, ale z reguły rozwiązanie jest zbyt specyficzne by było popularne.
+
+### Deployment
+Inny programista może poświęcając czasu pozwolić sobie na uruchomienie i przetestowanie takiej aplikacji, ale to też wymaga czasu i zasobów.
+Obecnie mamy sporo rozwiązań do deploymentu, wiele projektów jest zgodnych z różnymi platformami i często przy zasotoswaniu docker'a łatwo jest je uruchomić na włansym komputerze.
+
+### aPaaS
+Docker nie jest rozwiązaniem dedykowanym do produkcyjnych systemów z uwagi na bezpieczeństwo.
+Tutaj z pomocą przychodzą rozwiązania korzystającego ze specyfikacji zawartej w dockerze, które pozwalają na tej podstawie przygotowąć odpowiednie środowisko do uruchamiania oprogramowania.
+
+## Korzyści dla Provider'a
+Mając na uwadze dużą konkurencję na rynku i dumpingowe ceny z rynku niemieckiego.
+Ostatnie lata przyniosły skupienie nierentownego rynku polskich usług hostingowych.
+Udział rozwiązań chmurowych jest coraz bardziej zauważalny
+Warto zastanowić się jak pomóc rynkowi w Polscce, który nie ma szansy na obronę przy wzrastających kosztach energii elektrycznej i ciągłemu wzrostowi opodatkowania pracy
+Uważam, że to dobry czas, by każdy operator rozważyłdelegowanie część swojej infrastrukutry do chmury aPaaS, która pozwala na zwiększenie rentowności ułsug
+zmniejszając udział człowieka w procesie utrzymania usług z uwagi na przygotowane i rpzetestowane środowisko i deydkowane oprogramowania, specyficzne dla danej branży i klienta.
+
+
+
+
+
+  
 ![logo wapka.pl](https://logo.wapka.pl/3/cover.png)
 ## [wapka.pl page](https://www.wapka.pl/)
 + [logo wapka.pl page](https://logo.wapka.pl/)
@@ -166,7 +242,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla uzytkownik
 + intergacja z iPaaS.pl
 
 
-![DevAlert - logo](https://logo.devalert.pl/1/cover.png)
+![DevAlert - logo](https://logo.devalert.pl/4/cover.png)
 #### DevAlert.pl
 + [DevAlert - LandingPage](https://www.devalert.pl)
 + [DevAlert - Dokumentacja](https://docs.devalert.pl)
