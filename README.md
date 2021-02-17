@@ -136,7 +136,8 @@ Core w Polsce/Europie pozostanie, jednak kolejne rynki będą już zdobywane w k
 Infrastruktura będzie bardziej narażona na cyber ataki, klienci będą bardizej zróżnciowanie, co przyczyni się do wdrożenia personalizowanej oferty poprzez użycie AI.
 
 
-  
+# Oferta
+
 ![logo wapka.pl](https://logo.wapka.pl/3/cover.png)
 ## [wapka.pl page](https://www.wapka.pl/)
 + [logo wapka.pl page](https://logo.wapka.pl/)
@@ -149,8 +150,8 @@ Infrastruktura będzie bardziej narażona na cyber ataki, klienci będą bardize
 + integration with foundation
 + program partnerski dla programistów, aby im się opłacało używać to rozwiązanie
 + program partnerski dla aktualnych klientów subscription.pl
- 
- 
+
+
 ### Co to jest?
 
 The Wapka is an OpenSource Deployment Ecosystem to meet both:
@@ -160,7 +161,6 @@ This is win-win ecosystem: Programmer and Non-technical people have an opportuni
 ## Do czego służy?
 
 Ekosystem technologiczny dla otwartego oprogramowania do uruchamiania aplikacji z otwartym kodem OpenSource na własnym serwerze, kupionym w systemie wapka
-
 
 ### Dla kogo?
 
@@ -178,11 +178,12 @@ Dzięki deployment.pl możliwy jeszt szybki cykl oparty o małe VPS, zarządzane
 Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowników z subscription.pl
 
 
-### Elementy ekosystemu wapka
 
+# Elementy ekosystemu
+  
 
 ![subscription - logo](https://logo.subscription.pl/1/cover.png)
-#### subscription.pl
+## subscription.pl
 + [Subscription Development](https://www.subscription.pl/)
 + [Subscription - Dokumentacja](https://docs.subscription.pl/)
 
@@ -198,7 +199,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
   
 
 ![application - logo](https://logo.application.pl/2/cover.png)
-#### application.pl
+## application.pl
 + [Application Software Development](https://www.application.pl/)
 + [Application - Dokumentacja](https://docs.application.pl/)
 
@@ -209,7 +210,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
   
 
 ![deployment - logo](http://logo.deployment.pl/2/cover.png)
-#### deployment.pl
+## deployment.pl
 + [Logotyp deployment.pl](http://www.deployment.pl/)
 
   + Tools for deployment to help programmer implement it on own project
@@ -221,7 +222,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 
 
 ![gitCast - logo](http://logo.gitcast.pl/1/cover.png)
-#### gitCast.pl
+## gitCast.pl
 + [gitCast - LandingPage](http://www.gitcast.pl/)
 + [gitCast - Dokumentacja](http://docs.gitcast.pl/)
 
@@ -237,7 +238,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 
 
 ![aPaaS - logo](https://logo.apaas.pl/1/cover.png)
-#### aPaaS
+## aPaaS .pl
 + [aPaaS - LandingPage](https://www.apaas.pl)
 + [aPaaS - Dokumentacja](https://docs.apaas.pl)
 
@@ -250,7 +251,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 
 
 ![GitOps - logo](https://logo.gitops.pl/2/cover.png)
-#### GitOps
+## GitOps .pl
 + [GitOps - LandingPage](https://www.gitops.pl)
 + [GitOps - Dokumentacja](https://docs.gitops.pl)
 
@@ -259,11 +260,11 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 
 
 
-## Information about technologies
+# Technologies
 
 
 ![oAuth - logo](https://logo.oauth.pl/1/cover.png)
-#### oAuth.pl
+## oAuth.pl
 + [oAuth - LandingPage](https://www.oauth.pl)
 + [oAuth - Dokumentacja](https://docs.oauth.pl)
 
@@ -271,9 +272,10 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 + wsparcie merytoryczne dla idcard.pl / subscription.pl
 
 
+# Support for users
 
 ![Wdrożenie - logo](https://logo.wdrozenie.pl/1/cover.png)
-#### Wdrozenie.pl
+## Wdrozenie.pl
 + [Wdrożenie - LandingPage](https://www.wdrozenie.pl)
 + [Wdrożenie - Dokumentacja](https://docs.wdrozenie.pl)
  
@@ -283,15 +285,15 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
    
    
    
-## Support for users
 
-+ daily.com.pl, aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily ze znajomymi
+## daily.com.pl
+aktywacja codzienna wielu osób w małych grupach do prowadzenia własnego daily ze znajomymi
   + webmeet.pl / wb
    
    
 
 ![Foundation - logo](https://logo.foundation.pl/1/cover.png)
-#### Foundation.pl
+## Foundation.pl
 + [Foundation - LandingPage](https://www.foundation.pl)
 + [Foundation - Dokumentacja](https://docs.foundation.pl)
 
@@ -303,7 +305,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 
 
 ![DevAlert - logo](https://logo.devalert.pl/4/cover.png)
-#### DevAlert.pl
+## DevAlert.pl
 + [DevAlert - LandingPage](https://www.devalert.pl)
 + [DevAlert - Dokumentacja](https://docs.devalert.pl)
 
@@ -314,12 +316,12 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
   
 
 
-## The Next Step
+# The Next Step
 
 After this version of system will be ready we will extend solutions for API
 
 ![WAPI - logo](https://logo.wapi.pl/1/cover.png)
-#### WAPI.pl
+## WAPI.pl
 + [WAPI - LandingPage](https://www.wapi.pl)
 + [WAPI - Dokumentacja](https://docs.wapi.pl)
 
