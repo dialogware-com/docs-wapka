@@ -42,23 +42,29 @@ Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu 
 ### Efektywność wytwarzania
 Efektywność wytwarzania jest zależna od doświadczenia i doskonałości w powtarzaniu a także efektywności iteracji
 
-    Efektywność = Doświadczenie * Doskonałość * Efektywność iteracji 
+    Efektywność = Doświadczenie * Doskonałość * Specjalizacja * ilość procesów
 
 ### Doświadczenie
-  
-    Doświadczenie = ilość wykonywanych procesów / ilość wszystkich procesów 
+Doświadczenie jest równe 1, gdy jest najwyższe, gdy dana osoba miała możliwość uczestniczenia na każdym etapie w procesie wytwarzania
+
+    Doświadczenie = ilość wykonywanych procesów / ilość wszystkich procesów w iteracji
 
 ### Doskonałość
-Doskonałość jest równa 1, jest tym mniejsz im mniej razy dane zadanie zostało wykonane poprawnie,
+Doskonałość jest równa 1, jest tym mniejsza im mniej razy dane zadanie zostało wykonane poprawnie,
 Gdy użyjemy lepszej technologii jakość wykonania pojedynczej próby może ulec zwiększeniu co pozwalając zwiększyć doskonałość
 
     Doskonałość = ilość udanych prób / ilość prób
 
 
-### Efektywność iteracji
-Efektywność iteracji udowadnia, że lepiej mieć więcej procesów, ale powtarzalnych niż mniej ale definiowalnych
+### Specjalizacja
+Specjalizacja (Efektywność iteracji) udowadnia, że lepiej mieć więcej procesów, ale powtarzalnych niż mniej ale definiowalnych
+pozwala też określić na ile wystepuje potrzeba modularyzacji procesów wytwarzania, ich podziału na bardziej wyspecjalizowane 
 
-    Efektywność iteracji = ilość stałych powtarzalnych procesów / ilość zależnych procesów   
+    Specjalizacja = ilość stałych powtarzalnych procesów / ilość zależnych lub niezdefiniowanych procesów   
+
+
+### ilość procesów
+ilość procesów składających się na 1 iterację
 
 
 
