@@ -127,6 +127,15 @@ ekspertów d/s bezpieczeństwa, doradzającym naszym partnerom w kestii głębsz
 To będzie również czas ekspansji na rynku globalne i pozyskiwanie ekspertów z krajów, gdzie praca jest mniej kosztowna
 
 
+### Ponad 10 000 klientów/użytkowników końcowych
+ 
+Czas na obronę pozycji na rynku, szybszą ekspansję i pozyskiwanie nowych rynków, partnerów, klientów z różnych kultur.
+Zmniejszenie rentowności z uwagi na spore inwestycje.
+Z drugiej strony pozyskiwanie inwestorów.
+Core w Polsce/Europie pozostanie, jednak kolejne rynki będą już zdobywane w kooperacji.
+Infrastruktura będzie bardziej narażona na cyber ataki, klienci będą bardizej zróżnciowanie, co przyczyni się do wdrożenia personalizowanej oferty poprzez użycie AI.
+
+
   
 ![logo wapka.pl](https://logo.wapka.pl/3/cover.png)
 ## [wapka.pl page](https://www.wapka.pl/)
