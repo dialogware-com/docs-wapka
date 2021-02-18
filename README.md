@@ -136,17 +136,25 @@ Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów d
 
 ## Wartości 
 
+### Dobrowolność
 Firma Softreck realizująca ten projekt skupia się na rozwiązaniu technologicznych problemaów w duchu dobrowolności
-"Lańcuch dostaw" usług eletronicznych to nie tylko sam deployment, dlatego istotna jest otwartośc tej platformy na 
+"Lańcuch dostaw" usług eletronicznych to nie tylko sam deployment, dlatego istotna jest otwartośc tej platformy na
 udostępnianie usług w całym łańcuchu dostaw usług.
+
+### Personalizacja
+Ciągłe dostosowywanie usług w łańcuchu dostaw nie jest łatwe, jednak tworząc odpowiednie środowisko można znacznie przyśpieszyć tworzenie samych rozwiązań.  
 W Softreck nazywamy to Streamowaniem usług, interfejsów, aplikacji, danych. 
 
+### Kontrola
+W Naszym modelu biznesowym istotna jest kontrola kosztów i rozwoju projektu bezpośrednio przez klienta
 
-## Dystrybucja
-W Naszym modelu biznesowym istotna jest kontrola kosztów i kontrola rozwoju projektu bezpośrednio przez klienta
-Dlatego liczne rozwiazania pozwalajace na skalowanie i szybki wzrost firmy jest opartu o rozwiąania wielu specjalistycznych firm
-uzupełniających nasze usługi.
+### Specjalizacja
+Dlatego liczne rozwiazania pozwalajace na skalowanie i szybki wzrost firmy jest opartu o rozwiązania wielu specjalistycznych firm uzupełniających nasze usługi.
+
+### Standaryzacja
+Tworząc ustandaryzowane kanały dostępu do usług i współpracy między nimi zapewniamy wiele korzyści dla każdej strony.
 W ten sposób możliwe jest tez znalezienie alternatywnego dostawcy i zapewnienie pełnego łancucha dostaw usług. 
+
 
 ## Sprzedaż
 
@@ -237,7 +245,16 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 
 
 # Elementy ekosystemu
-  
+
+## Chat do komunikacji z klientami
+
+
+## MVPS.dev
+
++ rozwiązanie do szybkiego tworzenia MVP na podstawie danych zbieranych w formularzach
++ chat /chatbot
+
+
 
 ![subscription - logo](https://logo.subscription.pl/1/cover.png)
 ## subscription.pl
@@ -391,3 +408,15 @@ After this version of system will be ready we will extend solutions for API
 + [WAPI - Dokumentacja](https://docs.wapi.pl)
 
 , uruchamianie API na własnym serwerze
+
+
+# APIfoundation
+
+
+![APIterminal - logo](https://logo.apiterminal.com/1/cover.png)
+## APIterminal
++ [APIterminal Development](https://www.apiterminal.com/)
++ [APIterminal - Dokumentacja](https://docs.apiterminal.com/)
+
++ chat / terminal do realziacji usług poprzez wydawanie komend
+  Mozłiwosć łatwej implementacji w innych aplikacjach
