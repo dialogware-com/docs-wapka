@@ -419,7 +419,9 @@ After this version of system will be ready we will extend solutions for API
 
 
 # APIfoundation
+https://www.zdnet.com/article/the-linux-foundation-offers-a-suite-of-open-source-management-classes/
 
+https://www.zdnet.com/article/cloudlinux-readies-centos-linux-replacement-almalinux/
 
 ![APIterminal - logo](https://logo.apiterminal.com/1/cover.png)
 ## APIterminal
