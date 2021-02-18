@@ -1,8 +1,8 @@
 
 # Elementy ekosystemu
 
-## chat.wapka.pl
-[chat.wapka.pl](https://chat.wapka.pl/)
+## wdrozenie.it
+[wdrozenie.it](https://wdrozenie.it/)
 
 Chat do komunikacji z klientami bazujące na jLoads
 Możliowść łatwego dostepu do obsługi
