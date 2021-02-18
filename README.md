@@ -3,6 +3,10 @@
 + [Softreck - Leadership Through Software Development](https://softreck.com/)
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
 
+## More...
++ [Oferta, Model Biznesowy](https://roadmap.wapka.pl/)
++ [Technologie, Ekosystem](https://docs.wapka.pl/EKOSYSTEM.html)
+
 ## Początek
 Aby mówić o poniższym ekosystemie warto omówić kontekst.
 Przedstawić kto za tym stoi oraz omówić potrzeby klientów jakie mają zostać zaspokojone.
@@ -121,6 +125,3 @@ wypełniających niszę, szukających specyficznych klientów, poprzez subscript
 ### dla rynku
 gdyż wszystkie usługi są profilowane a przez to wyższej jakości niż w przypadku poszukiwania aktualnie "wolnego" specjalisty czy wypromowanej ale niezbyt dobrze dopasowanej usługi
 
-
-+ [Oferta, Model Biznesowy](https://roadmap.wapka.pl/)
-+ [Technologie, Ekosystem](EKOSYSTEM.md)
