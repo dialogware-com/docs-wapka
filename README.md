@@ -247,7 +247,11 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 # Elementy ekosystemu
 
 ## chat.wapka.pl
-Chat do komunikacji z klientami
+[chat.wapka.pl](https://chat.wapka.pl/)
+
+Chat do komunikacji z klientami bazujące na jLoads
+Możliowść łatwego dostepu do obsługi 
+i funkcjonalności konkretnej usługi
 
 
 ## MVPS.dev
