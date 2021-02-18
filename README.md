@@ -246,7 +246,8 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 
 # Elementy ekosystemu
 
-## Chat do komunikacji z klientami
+## chat.wapka.pl
+Chat do komunikacji z klientami
 
 
 ## MVPS.dev
@@ -274,6 +275,7 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 
 ![application - logo](https://logo.application.pl/2/cover.png)
 ## application.pl
+(naszeprogramy.pl)
 + [Application Software Development](https://www.application.pl/)
 + [Application - Dokumentacja](https://docs.application.pl/)
 
@@ -352,6 +354,12 @@ Cel na 2021 jest: kilkadziesiat serwerów z dostępem przez oAuth dla użytkowni
 
 
 
+![Netowisko - logo](https://logo.netowisko.pl/1/cover.png)
+## Netowisko.pl
++ [Netowisko - LandingPage](https://www.netowisko.pl)
++ [Netowisko - Dokumentacja](https://docs.netowisko.pl)
+
+Merytoryczne wsparcie, forum dla całego ekosystemu w celu lepszego przepływu informacji pomiędzy grupami użytkownikó
 
 
 # Technologies
