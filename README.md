@@ -123,4 +123,4 @@ gdyż wszystkie usługi są profilowane a przez to wyższej jakości niż w przy
 
 
 + [Oferta, Model Biznesowy](https://roadmap.wapka.pl/)
-+ [Technologie, EKOSYSTEM.md](EKOSYSTEM.md)
++ [Technologie, Ekosystem](EKOSYSTEM.md)
