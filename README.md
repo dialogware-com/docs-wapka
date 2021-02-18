@@ -84,7 +84,7 @@ Klient nie musi logować się do panelu domenowego czy hostingowego, obsługa te
 + wapka zapewnia wsparcie techniczne dla klientów, można więcej czasu poświęcić na swoftware development
 + gotowa infrastruktura
 + szkolenia ze strony wapka
-
++ strategia API-first (APIfoundation)
 
 Programista rozwijający otwarte oprogramowanie często poza programowaniem nie ma czasu, by samemu obsłużyć klientów i tym samym zarabiać na swoim oprogramowaniu.
 W odróżnieniu od oprogramowania licencyjnego programista opensource może pozwolić sobie na dowolność, ale z reguły rozwiązanie jest zbyt specyficzne by było popularne.
@@ -111,6 +111,7 @@ zmniejszając udział człowieka w procesie utrzymania usług z uwagi na przygot
 
 
 ## Korzyści dla ...
+
 ### dla specjalistów
 poszukujących pracy na godziny (hourly.pl) razem z wapka możemy dostarczać Wasze usługi potrzebującym klientom wsparcia od zaraz, wiec koszty są odpoweidnio wyższe i zarobek jest również atrakcyjny
 
@@ -124,11 +125,38 @@ gdyż wszystkie usługi są profilowane a przez to wyższej jakości niż w przy
 
 # Model Biznesowy
 
+## Rozwiązania
+
+Rozwiązania są skierowane na zwiększenie efektywności wszystkich klientów działajacych na rzecz:
++ definiowania rozwiązania poprzez zrozumienie problemów i idei
++ wdrażania projektów poprzez zapewnienie odpowiednio wykwalifikowanej kadry
++ automatyzacji utrzymania poprzez najlepsze narzędzia
++ uniezależniania się od stron trzecich udostępniających cały ekosystem, bez możliwości wyboru, zmiany, migracji
++ Rozwiazanie wapka, zmodularyzowane elementy, które pozostają fizycznie niezaleznie, daje to szansę szybszego rozwoju niż w przypadku monolitycznych scalonych rozwiązaniach zatracające cechy elastyczności.
+
+## Wartości 
+
+Firma Softreck realizująca ten projekt skupia się na rozwiązaniu technologicznych problemaów w duchu dobrowolności
+"Lańcuch dostaw" usług eletronicznych to nie tylko sam deployment, dlatego istotna jest otwartośc tej platformy na 
+udostępnianie usług w całym łańcuchu dostaw usług.
+W Softreck nazywamy to Streamowaniem usług, interfejsów, aplikacji, danych. 
+
+
+## Dystrybucja
+W Naszym modelu biznesowym istotna jest kontrola kosztów i kontrola rozwoju projektu bezpośrednio przez klienta
+Dlatego liczne rozwiazania pozwalajace na skalowanie i szybki wzrost firmy jest opartu o rozwiąania wielu specjalistycznych firm
+uzupełniających nasze usługi.
+W ten sposób możliwe jest tez znalezienie alternatywnego dostawcy i zapewnienie pełnego łancucha dostaw usług. 
+
+## Sprzedaż
+
 Model subskrypcji ze zmienną w ilości świadczonych godzin supportu
 możliwa przedpłata, wykupienie kilku godzin tygodniowo/miesięcznie/rocznie
 
 Klienci i Partnerzy będą pozyskiwaniu przy indywidualnych rozmowach.
-Wzrost będzie organiczny, bez udziału kampanii reklamowych aby usługa miała czas dojrzeć do aktualnych potrzeb klientów.
+Wzrost będzie organiczny.
+Pozyskiwanie partnerów będzie w naturalny sposób zwiększało nasz udział w rynku.
+W ten sposób zbudujemy silną społeczność i usługa będzie miała warunki, by dojrzeć do aktualnych potrzeb klientów z branży.
 
 
 ### Do 100 klientów/użytkowników końcowych
