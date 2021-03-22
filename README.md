@@ -7,6 +7,9 @@
 + [Oferta, Model Biznesowy](https://roadmap.wapka.pl/)
 + [Technologie, Ekosystem](https://docs.wapka.pl/EKOSYSTEM.html)
 
+## Projekty
+[Website about Webstreaming - WebStream.dev](https://www.webstream.dev/)
+
 ## Początek
 Aby mówić o poniższym ekosystemie warto omówić kontekst.
 Przedstawić kto za tym stoi oraz omówić potrzeby klientów jakie mają zostać zaspokojone.
