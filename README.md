@@ -45,7 +45,7 @@ Może wpływać na jego rozwój, w ramach współracy z twórcami i zapewnieniu 
 
 
 ## Efektywność wytwarzania
-[Definicja - znaczenie optymizacji](http://www.optymizacja.pl/)
+[Definicja - znaczenie optymizacji](https://optymizacja.github.io/www/)
 
 
 ## Lepszy model biznesowy*
