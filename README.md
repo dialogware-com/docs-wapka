@@ -146,3 +146,8 @@ gdyż wszystkie usługi są profilowane a przez to wyższej jakości niż w przy
 + [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
 
 ---
++ [edit](https://github.com/wapka-pl/docs/edit/master/README.md)
+
+```
+https://github.com/wapka-pl/docs.git
+```
