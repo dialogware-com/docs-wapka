@@ -4,8 +4,8 @@
 + [Welcome to Portfolio of Softreck Company - softreck.dev](https://softreck.dev/)
 
 ## More...
-+ [Oferta, Model Biznesowy](https://roadmap.wapka.pl/)
-+ [Technologie, Ekosystem](https://docs.wapka.pl/EKOSYSTEM.html)
++ [Model Biznesowy, roadmap.wapka.pl](https://roadmap.wapka.pl/)
++ [SaaS is King, www.saasisking.com](https://www.saasisking.com/)
 
 ## Projekty
 [Website about Webstreaming - WebStream.dev](https://www.webstream.dev/)
